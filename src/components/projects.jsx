@@ -26,7 +26,7 @@ const projects = [
     title: "Portfolio",
     description:
       "A personal portfolio website that showcases my skills and projects, built with Tailwind CSS, React, and Framer Motion.",
-    link: "https://umekwe-bank.netlify.app",
+    link: "https://new-portfolio-three-eosin.vercel.app/",
     image: PortfolioImg,
   },
 ];
